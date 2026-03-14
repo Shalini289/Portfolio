@@ -1,0 +1,60 @@
+.education {
+  background: #000;
+}
+
+.education-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.edu-card {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 30px;
+  background: #020617;
+  border: 1px solid #1e293b;
+  padding: 25px;
+  border-radius: 16px;
+  transition: 0.3s;
+}
+
+.edu-card:hover {
+  transform: translateY(-6px);
+  border-color: #08afa1;
+}
+
+.edu-left h3 {
+  color: #08afa1;
+  margin-bottom: 6px;
+}
+
+.edu-left span {
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.edu-right h4 {
+  margin-bottom: 8px;
+}
+
+.edu-right p {
+  color: #cbd5e1;
+}
+
+/* Mobile */
+
+@media (max-width: 800px) {
+  .edu-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+}
+@media (max-width: 800px) {
+
+  .edu-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+}

@@ -1,0 +1,44 @@
+.why {
+  background: #000;
+}
+
+.why-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}
+
+.why-card {
+  background: #020617;
+  border: 1px solid #1e293b;
+  padding: 25px;
+  border-radius: 16px;
+  transition: 0.3s;
+}
+
+.why-card:hover {
+  transform: translateY(-6px);
+  border-color: #08afa1;
+}
+
+.why-card h3 {
+  margin-bottom: 10px;
+  color: #08afa1;}
+
+.why-card p {
+  color: #cbd5e1;
+  font-size: 15px;
+}
+
+/* Responsive */
+@media (max-width: 1000px) {
+  .why-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .why-grid {
+    grid-template-columns: 1fr;
+  }
+}
