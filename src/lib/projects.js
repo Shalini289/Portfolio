@@ -1,4 +1,13 @@
 export const projects = [
+    {
+    title: "SmartHealth",
+    description:
+      "AI-powered healthcare app for smart doctor recommendations and seamless appointment booking.",
+    tech: ["Next.js","Node.js", "Groq API", "CSS"],
+    image: "/project3.png",
+    demo: "https://doctor-appointment-pearl-six.vercel.app/",
+    github: "https://github.com/Shalini289/DoctorAppointment",
+  },
   {
     title: "AI Smart Code Reviewer",
     description:
