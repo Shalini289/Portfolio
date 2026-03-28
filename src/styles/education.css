@@ -1,11 +1,12 @@
 .education {
-  background: #000;
+ background: #020617;
 }
 
 .education-timeline {
   display: flex;
   flex-direction: column;
   gap: 25px;
+  background: #020617;
 }
 
 .edu-card {
@@ -22,20 +23,24 @@
 .edu-card:hover {
   transform: translateY(-6px);
   border-color: #08afa1;
+  background: #020617;
 }
 
 .edu-left h3 {
   color: #08afa1;
   margin-bottom: 6px;
+  background: #020617;
 }
 
 .edu-left span {
   color: #94a3b8;
+  background: #020617;
   font-size: 14px;
 }
 
 .edu-right h4 {
   margin-bottom: 8px;
+  background: #020617;
 }
 
 .edu-right p {

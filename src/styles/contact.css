@@ -5,6 +5,7 @@
 
 .contact-subtitle {
   color: #94a3b8;
+ background: #020617;
   margin-bottom: 30px;
 }
 
@@ -13,6 +14,7 @@
   margin: auto;
   display: flex;
   flex-direction: column;
+  background: #020617;
   gap: 15px;
 }
 
@@ -21,7 +23,9 @@
   padding: 12px;
   border-radius: 8px;
   border: 1px solid #1e293b;
-  background: #000;
+  background: #020617;
+
+
   color: white;
 }
 
@@ -38,6 +42,7 @@
 
 .contact-form button:hover {
   transform: translateY(-2px);
+  background: #020617;
 }
 .email-btn {
   display: inline-block;
@@ -53,4 +58,5 @@
 
 .email-btn:hover {
   transform: translateY(-2px);
+  background: #020617;
 }

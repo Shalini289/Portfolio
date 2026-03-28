@@ -6,6 +6,7 @@
   display: flex;
  align-items: center;
  justify-content: center;
+ background: #020617;
 }
 
 
@@ -16,6 +17,7 @@
   display: flex;
  align-items: center;
  justify-content: center;
+ background: #020617;
 }
 
 .about-right p {
@@ -25,6 +27,7 @@
   display: flex;
  align-items: center;
  justify-content: center;
+ background: #020617;
 }
 
 .about-highlights {
@@ -34,6 +37,7 @@
   margin-top: 30px;
   display: flex;
  align-items: center;
+ background: #020617;
  justify-content: center;
 }
 
@@ -49,12 +53,14 @@
 
 .highlight-card:hover {
   transform: translateY(-5px);
+  background: #020617;
   border-color: #08afa1;
 }
 
 .highlight-card h3 {
   font-size: 24px;
   margin-bottom: 5px;
+  background: #020617;
 }
 
 /* 📱 Mobile */
@@ -62,12 +68,14 @@
 @media (max-width: 900px) {
   .about-container {
     grid-template-columns: 1fr;
+    background: #020617;
     text-align: center;
   }
 
   .about-highlights {
     justify-content: center;
     flex-wrap: wrap;
+    background: #020617;
   }
 
   
