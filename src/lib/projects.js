@@ -1,5 +1,14 @@
 export const projects = [
     {
+    title: "Agrichain",
+    description:
+      "AgriChain empowers farmers with AI-driven insights and blockchain-based trust to maximize profit and eliminate middlemen.",
+    tech: ["Next.js", "MongoDB","Node.js","Express.js","Solidity","hardhat","python"],
+    image: "/project4.png",
+    demo: "https://agrichain-three.vercel.app/",
+    github: "https://github.com/Shalini289/Agrichain",
+  },
+  {
     title: "SmartHealth",
     description:
       "AI-powered healthcare app for smart doctor recommendations and seamless appointment booking.",
