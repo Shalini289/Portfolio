@@ -1,4 +1,13 @@
 export const projects = [
+  {
+    title: "AI Resume Analyzer",
+    description:
+      "AI Resume Analyzer is an AI-powered workspace for analyzing resumes, improving content, and preparing job applications.",
+    tech: ["Python", "GenAI"],
+    image: "/project5.png",
+    demo: "https://ai-resume-analyzer-ewkxyvuetoo7hp9rkfurmj.streamlit.app/",
+    github: "https://github.com/Shalini289/ai-resume-analyzer",
+  },
     {
     title: "Agrichain",
     description:
@@ -9,7 +18,7 @@ export const projects = [
     github: "https://github.com/Shalini289/Agrichain",
   },
   {
-    title: "SmartHealth",
+    title: "Medicare",
     description:
       "AI-powered healthcare app for smart doctor recommendations and seamless appointment booking.",
     tech: ["Next.js","Node.js", "Groq API", "CSS"],

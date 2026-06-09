@@ -19,7 +19,7 @@ export default function Education() {
               <h4>Acropolis Institute of Technolog and Research</h4>
               <p>
                 Currently pursuing Bachelor of Technology in Computer Science
-                Engineering with focus on Data Structures, and Web Development.(Current Cgpa - 7.68)
+                Engineering with focus on Data Structures, and Web Development.(Current Cgpa - 7.78)
               </p>
             </div>
           </div>
