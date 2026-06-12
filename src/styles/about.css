@@ -1,12 +1,12 @@
 .about {
-  background: #020617;
+  background: transparent;
 }
 
 .about-container {
   display: flex;
  align-items: center;
  justify-content: center;
- background: #020617;
+ background: transparent;
 }
 
 
@@ -17,7 +17,7 @@
   display: flex;
  align-items: center;
  justify-content: center;
- background: #020617;
+ background: transparent;
 }
 
 .about-right p {
@@ -27,7 +27,7 @@
   display: flex;
  align-items: center;
  justify-content: center;
- background: #020617;
+ background: transparent;
 }
 
 .about-highlights {
@@ -37,7 +37,7 @@
   margin-top: 30px;
   display: flex;
  align-items: center;
- background: #020617;
+ background: transparent;
  justify-content: center;
 }
 
@@ -68,14 +68,14 @@
 @media (max-width: 900px) {
   .about-container {
     grid-template-columns: 1fr;
-    background: #020617;
+    background: transparent;
     text-align: center;
   }
 
   .about-highlights {
     justify-content: center;
     flex-wrap: wrap;
-    background: #020617;
+    background: transparent;
   }
 
   

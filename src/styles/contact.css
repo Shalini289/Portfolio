@@ -1,11 +1,11 @@
 .contact {
-  background: #020617;
+  background: transparent;
   text-align: center;
 }
 
 .contact-subtitle {
   color: #94a3b8;
- background: #020617;
+ background: transparent;
   margin-bottom: 30px;
 }
 
@@ -14,7 +14,7 @@
   margin: auto;
   display: flex;
   flex-direction: column;
-  background: #020617;
+  background: transparent;
   gap: 15px;
 }
 

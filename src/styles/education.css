@@ -1,12 +1,12 @@
 .education {
- background: #020617;
+ background: transparent;
 }
 
 .education-timeline {
   display: flex;
   flex-direction: column;
   gap: 25px;
-  background: #020617;
+  background: transparent;
 }
 
 .edu-card {
@@ -29,18 +29,18 @@
 .edu-left h3 {
   color: #08afa1;
   margin-bottom: 6px;
-  background: #020617;
+  background: transparent;
 }
 
 .edu-left span {
   color: #94a3b8;
-  background: #020617;
+  background: transparent;
   font-size: 14px;
 }
 
 .edu-right h4 {
   margin-bottom: 8px;
-  background: #020617;
+  background: transparent;
 }
 
 .edu-right p {
