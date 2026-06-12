@@ -49,6 +49,22 @@ const certificates = [
     description:
       "Certified in Prompt Engineering, skilled at designing effective prompts to optimize AI outputs",
   },
+  {
+    title: "Gen AI Study Jams 2024",
+    issuer: "GDGOC AITR",
+    date: "2024",
+    image: "/certificates/certificate-7.png",
+    description:
+      "Certificate of Completion recognizing hands-on learning in Google’s Generative AI technologies through Study Jams 2024",
+  },
+  {
+    title: "Software Architect and System Design",
+    issuer: "Scholarhat",
+    date: "2026",
+    image: "/certificates/certificate-8.png",
+    description:
+      "Certificate of Completion recognizing foundational expertise in software architecture and system design principles",
+  },
 ];
 
 export default function Certificates() {
