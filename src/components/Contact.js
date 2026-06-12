@@ -35,7 +35,7 @@ export default function Contact() {
         </h2>
 
         <p className="contact-subtitle">
-          🚀 Have a project in mind? Let's build something amazing together.
+          🚀 Have a project in mind? Let&apos;s build something amazing together.
         </p>
 
         <form className="contact-form reveal" onSubmit={sendEmail}>
